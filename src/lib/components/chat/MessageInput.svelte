@@ -924,7 +924,7 @@
 				</form>
 
 				<div class="mt-1.5 text-xs text-gray-500 text-center">
-					LLMs can make mistakes. Verify important information.
+					If Shiro doesn't know the answer to your question, He will just make shit up to sound smart.
 				</div>
 			</div>
 		</div>
